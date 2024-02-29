@@ -12,7 +12,7 @@ const Header = () => {
           <div className="container px-4 px-lg-5 py-1">
             <a className="navbar-brand d-flex align-items-center" href="#!">
               <h2 className="d-inline m-0 text-warning fst-italic">
-              LOKKI  Shopping 
+              LOKKI Mobile Cart 
                 
               </h2>
             </a>
